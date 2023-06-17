@@ -4,7 +4,7 @@ To run these modules, the following libraries are required:
 3. matplotlib
 4. math
 
-When running these modules, openCV will display images. In problem 1, each modified video frame from **project2.avi** will each show for 0.3 seconds minimum before the next one displays. Press 'esc' in these windows to end the operation early. In problem 2, the final stitched image will display after computation time. Press any key to end the operation from this point.
+When running these modules, openCV will display images. In problem 1, each modified video frame from **project2.avi** will each show for 0.3 seconds minimum before the next one displays. Press 'esc' in these windows to end the operation early. In problem 2, the final stitched image from images **image_1.jpg - image_4.jpg** will display after computation time. Press any key to end the operation from this point.
 
 Both Project2_2.py and Project2_1.py have been independently tested to esnure there are no recursive dependencies and confirmed to work correctly. If any errors arise, please reach out to nnovak@umd.edu and I will address them accordingly, if they are issues with my code.
 
